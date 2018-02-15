@@ -21,7 +21,7 @@ body {
 }
 
 p {
-  font-family: Open Sans, sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .watermelon {
@@ -36,5 +36,5 @@ p {
 
 .persimmon {
   background-color: #e86033;
-  font-family: "Comfortaa", sans-serif;
+  font-family: Comfortaa, sans-serif;
 }
