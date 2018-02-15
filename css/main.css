@@ -19,3 +19,17 @@ html {
 body {
   margin: 0;
 }
+
+p {
+    font-family: Open Sans, sans-serif;
+}
+
+.watermelon {
+  background-color: #e97065;
+  font-family: 'Rammetto One', sans-serif;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+  font-family: 'Gravitas One', serif;
+}
